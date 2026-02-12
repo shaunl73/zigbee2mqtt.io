@@ -57,3 +57,4 @@ Value can be found in the published state on the `tamper` property.
 It's not possible to read (`/get`) or write (`/set`) this value.
 If value equals `true` tamper is ON, if `false` OFF.
 
+**User manual** can be found here: https://manuals.plus/ae/1005009303293890 
